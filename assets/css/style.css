@@ -11,12 +11,12 @@ body{
     background-color: #edf3f8;
     color: darkgrey;
     width: 200px;
-    margin-left: 10px;
+    height: 55px;
 }
 .iconabsolute{
     position:absolute;
-    top: 28px;
-    left: 40px;
+    top: 17px;
+    left: 8px;
 }
 .card-bodycss{
     padding-top: 0;
@@ -29,5 +29,12 @@ body{
     border-radius: 5px;
 }
 .buttons:hover{
+    background-color: #edf3f8;
+}
+#btn_top{
+    width: 100%;
+    margin-right: 10px;
+}
+.comment{
     background-color: #edf3f8;
 }
